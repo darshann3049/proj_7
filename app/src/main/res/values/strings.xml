@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">My Application111</string>
+    <string name="breedType">Breed Type:</string>
+    <string name="boxer">Boxer</string>
 </resources>
