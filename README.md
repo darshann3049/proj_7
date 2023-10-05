@@ -8,7 +8,7 @@ Time spent: **1** hours spent in total
 
 ## Summary
 
-**CAT API** is an android app that displays a scrollable list of characters from the Cat API")**
+**Dog API** is an android app that displays a scrollable list of characters from the Dog API")**
 
 If I had to describe this project in three (3) emojis, they would be: **😇😚😁**
 
